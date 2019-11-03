@@ -1,0 +1,13 @@
+This document shows the chronogram of the project
+29/10/2019 2:30 pm - Assignment of project
+29/10/2019 2:40 pm - Project basic ideation
+29/10/2019 3:15 pm - Creation of GitRepo
+29/10/2019 4:35 pm - Creation of text documents and start of HTML code
+30/10/2019 9:52 am - Continuation of the build up of the first page
+30/10/2019 2:52 pm - Menu completed with the restarted version in bootstrap
+30/10/2019 4:52 pm - Home page completion and feature article
+30/10/2019 6:00 pm - Start of the About Us page
+01/11/2019 10:30 am- Start of the sticky footer page
+01/11/2019 11:00 am- Completion of footer and Start of About us 
+01/11/2019 11:30 am- Start of the Gallery page
+01/11/2019 2:00 pm - Start of the Service page

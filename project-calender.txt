@@ -5,6 +5,16 @@ Day1
 29/10/2019 2:30pm - Assignment of the project
 29/10/2019 3:30pm - Completion of Basic ideation and start of Github repository 
 29/10/2019 3:45pm - Start of basic HTML bone of the project
-29/10/2019 5:30pm - Finish the basic structure of the project
+29/10/2019 5:30pm - Finish the basic structure of the HTML part
 
+Day2
+30/10/2019 9:30am - Start of the First page of the website
+30/10/2019 11:00am- Finish the navigation, menu and home page
+30/10/2019 3:00pm - Finish the Home page and start the About US page
+30/10/2019 5:00pm - Finish the About Us page and start the services page
 
+Day3
+30/10/2019 9:30am - Start of the Gallery and Contact US page
+30/10/2019 11:00am- Finish the Gallery
+30/10/2019 3:00pm - Finish the final touch ups 
+30/10/2019 5:00pm - Finish the Documentation

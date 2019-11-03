@@ -1,1 +1,4 @@
 This file consists of all the incidents recorded during the course of the project completion.
+30/10/2019 11:34pm:- Still working on the menu because of non proficiency in the new framework being used (Bulma). Most issues relate to 
+                    positioning of columns in bulma. 
+30/10/2019 3:30pm:- successfully resolved issue with bootstrap
