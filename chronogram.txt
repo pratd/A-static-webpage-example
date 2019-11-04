@@ -11,3 +11,5 @@ This document shows the chronogram of the project
 01/11/2019 11:00 am- Completion of footer and Start of About us 
 01/11/2019 11:30 am- Start of the Gallery page
 01/11/2019 2:00 pm - Start of the Service page
+01/11/2019 5:00 pm - Finish the service page
+02/11/019 4:00 pm - Final Contact us page, Addition of breadcrumbs, forms and final cross check
