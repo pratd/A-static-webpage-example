@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 $(document).ready(function() {
     // Gets the video src
     var $videoSrc;  
@@ -22,7 +22,7 @@ $(document).ready(function() {
     // document ready  
     });
     
-=======
+/*
 $(document).ready(function() {
     // Gets the video src
     var $videoSrc;  
@@ -44,6 +44,6 @@ $(document).ready(function() {
     })      
       
     // document ready  
-    });
+    });*/
     
->>>>>>> d797489982407b61d8352f8e21e363cc19233ad9
+
