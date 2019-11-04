@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 This file consists of all the incidents recorded during the course of the project completion.
 30/10/2019 11:34pm:- Still working on the menu because of non proficiency in the new framework being used (Bulma). Most issues relate to 
                     positioning of columns in bulma. 
 30/10/2019 3:30pm:- successfully resolved issue with 
+=======
+This file consists of all the incidents recorded during the course of the project completion.
+30/10/2019 11:34pm:- Still working on the menu because of non proficiency in the new framework being used (Bulma). Most issues relate to 
+                    positioning of columns in bulma. 
+30/10/2019 3:30pm:- successfully resolved issue with 
+>>>>>>> d797489982407b61d8352f8e21e363cc19233ad9
 03/11/2019 :- some errors where observed play video section
